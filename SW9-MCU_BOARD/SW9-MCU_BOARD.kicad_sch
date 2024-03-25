@@ -1835,7 +1835,7 @@
     (property "Value" "FerriteBead" (at 198.1708 119.38 90)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "Ferrite_THT:LairdTech_28C0236-0JW-10" (at 198.12 122.682 90)
+    (property "Footprint" "Inductor_SMD:L_0201_0603Metric_Pad0.64x0.40mm_HandSolder" (at 198.12 122.682 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 198.12 124.46 0)
